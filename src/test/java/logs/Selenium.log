@@ -1,0 +1,10 @@
+2022-03-17 17:17:24 [DEBUG] base.TestBase.setUp(TestBase.java:45) Config file loaded!!!
+2022-03-17 17:17:24 [DEBUG] base.TestBase.setUp(TestBase.java:56) OR file loaded!!!
+2022-03-17 17:17:27 [DEBUG] base.TestBase.setUp(TestBase.java:71) Chrome launched!!!
+2022-03-17 17:17:27 [INFO ] base.TestBase.setUp(TestBase.java:72) This logs for info
+2022-03-17 17:17:32 [DEBUG] base.TestBase.setUp(TestBase.java:83) Navitaed to!!!: https://app.dev.zeconomy.com/
+2022-03-17 17:17:32 [DEBUG] tests.ExampleTest.loginAsASimpleUser(ExampleTest.java:14) Inside Login Test
+2022-03-17 17:17:34 [DEBUG] tests.ExampleTest.loginAsASimpleUser(ExampleTest.java:16) Login successfully
+2022-03-17 17:17:34 [INFO ] tests.ExampleTest.loginAsASimpleUser(ExampleTest.java:17) log info executed
+2022-03-17 17:17:34 [INFO ] tests.ExampleTest.loginAsASimpleUser(ExampleTest.java:21) Trying to Login
+2022-03-17 17:17:35 [DEBUG] base.TestBase.tearDown(TestBase.java:96) Test execution completed
